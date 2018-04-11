@@ -4,9 +4,9 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;;
-  background: linear-gradient(to bottom, #533872, #3a2778), #58488a;
+  background: linear-gradient(to bottom, #09203f, #537895), #537895;
   background-attachment: fixed;
-  background-color: #58488a;
+  background-color: #537895;
 }
 
 button {
